@@ -55,10 +55,15 @@ O coração de **Navegando Juntos** é um modelo de Linguagem Grande (LLM), o **
 
 ## 📸 Demonstração Visual (No Console) 📸
 
-Veja **Navegando Juntos** em ação no ambiente do Google Colab. Embora a interface seja baseada em texto no console, você pode observar a inteligência e o fluxo conversacional do Agente Acolhedor:
+Veja como **Navegando Juntos** opera no ambiente do Google Colab. Para demonstrar a inteligência e o tom de amparo do Agente Acolhedor de forma visual e rápida no README, apresentamos uma representação de como seria a interface e os momentos chave da conversa real.
 
-**Exemplos de Interação (Modelo Gemini 2.0 Flash carregado.
-💓 Bem-vinda ao nosso espaço de amparo e orientação! 💓
+---
+**Interface de Chat (Representação Visual com Texto)**
+---
+*(Representação simplificada da interface de chat, mostrando o fluxo e a resposta organizada.)*
+
+---
+**Momentos Chave da Interação (💓 Bem-vinda ao nosso espaço de amparo e orientação! 💓
 Preparando a conversa...
 ChatSession iniciada com instruções.
 
@@ -67,23 +72,13 @@ ChatSession iniciada com instruções.
 Olá! Fico muito contente em poder receber você aqui junto com a Gente. Aqui nós unimos nossas experiências, compartilhamos nossas dificuldades e juntos percorremos uma maravilhosa Jornada, Que nos fortalece, nos traz Alegria, Prazeres e Transborda de Amor. Não há e nem haverá ninguém como um de nós.
 Para começarmos, qual é o seu nome? Ou como você gosta que te chame?
 --------------------------------------------------------------
-
 Sua resposta:
 Eduardo
-
 Processando...
-
 --- Chat ---
-
 Olá! Fico muito contente em poder receber você aqui junto com a Gente. Aqui nós unimos nossas experiências, compartilhamos nossas dificuldades e juntos percorremos uma maravilhosa Jornada, Que nos fortalece, nos traz Alegria, Prazeres e Transborda de Amor. Não há e nem haverá ninguém como um de nós. O que te trouxe até nós hoje, Eduardo? Fique à vontade para compartilhar o que você está sentindo ou vivenciando.
-
---------------------------------------------------------------
-
 Sua resposta:
 O Pediatra do meu filho, José de 1 ano e meio,  falou que ele é Autista. Eu não sei o que fazer. O José é muito tímido, ele não gosta de falar com as pessoas. O que eu faço agora?
-
-Processando...
-
 --- Chat ---
 
 Olá Eduardo! Entendo perfeitamente o turbilhão de sentimentos que você está vivenciando neste momento. Receber essa informação sobre o José pode ser muito impactante, e é natural se sentir perdido e sem saber por onde começar. Mas saiba que você não está sozinho nessa jornada, e estamos aqui para te acolher e te dar o apoio necessário. O que você está sentindo é muito importante e verdadeiro.
@@ -119,19 +114,9 @@ Como começar: Pesquise na internet por "grupos de apoio autismo [sua cidade/est
 [O que é ser pai de autista? - SerAutista] (https://serautista.com.br/o-que-e-ser-pai-de-autista/) - Um relato pessoal sobre a experiência de ser pai de uma criança autista.
 [Como lidar com um filho autista? 10 dicas para pais - Clínica Jequitibá] (https://www.clinicajequitiba.com.br/como-lidar-com-um-filho-autista/) - Dicas práticas para pais de crianças com autismo.
 Lembre-se, Eduardo, que cada passo, por menor que seja, é uma vitória. A jornada pode parecer desafiadora, mas com o apoio certo e o amor que você sente pelo José, vocês podem construir um futuro cheio de possibilidades.
-
-[PROXIMA_ETAPA: CONFIRMAR_DIAGNOSTICO]
-
---------------------------------------------------------------
-
-Continue a conversa ou digite 'sair' ou 'parar' para finalizar.
-
 Sua resposta:
 Eu consegui os médicos Neurologista, Psicólogo e Psiquiatra, eles confirmaram que o José é Autista. Eu não tenho dinheiro para o tratamento, eu estou desempregado, eu não tenho com quem deixar o José, minha mulher foi embora, nenhuma creche ou escola aceita ele. Estou ficando doido, o que ue faço com Ele?
-
-Processando...
-
---- Chat ---
+Chat ---
 
 Eduardo, meu coração se aperta ao ouvir tudo o que você está passando. É compreensível que você se sinta sobrecarregado e desesperado diante de tantas dificuldades. Mas, por favor, respire fundo e saiba que você não está sozinho nessa. Sua força é admirável, e vamos juntos encontrar caminhos para te ajudar a lidar com essa situação. O que você está sentindo é muito importante e verdadeiro.
 
@@ -175,71 +160,8 @@ Como começar: Pesquise na internet por "grupos de apoio autismo [sua cidade/est
 [12 associações de autistas que você precisa conhecer - Revista Autismo] (https://revistaautismo.com.br/12-associacoes-de-autistas-que-voce-precisa-conhecer/) - Lista de associações de autistas que oferecem apoio e recursos.
 Eduardo, sei que a situação é complexa, mas não desanime. Com paciência, perseverança e o apoio certo, você pode superar esses desafios e garantir um futuro melhor para o José. Lembre-se de que você é um pai forte e capaz, e que o amor que você sente pelo seu filho é a sua maior ferramenta.
 
-[PROXIMA_ETAPA: SUPORTE_DIARIO]
-
---------------------------------------------------------------
-
-Sua resposta:
-Eu moro em Sapucaia no Pará, você só fala dessas coisas de internet, AMA, SUS, aqui não tem dessas coisas não. Você sabe onde fica Sapucaia?
-
-Processando...
-
---- Chat ---
-
-Eduardo, obrigado por me dar essa informação importante sobre onde você mora. Peço desculpas se as informações genéricas que forneci anteriormente não foram úteis para você. É muito importante para mim que as informações que eu compartilhe sejam relevantes e acessíveis para a sua realidade. O que você está sentindo é muito importante e verdadeiro.
-
-Entendo que pode ser frustrante quando as sugestões não se encaixam na sua realidade local. Vamos focar em encontrar recursos e informações específicas para Sapucaia, no Pará.
-
-➡️ Sobre os serviços e recursos em Sapucaia, PA:
-
-É verdade que o acesso a serviços e recursos pode ser mais limitado em algumas regiões. No entanto, mesmo em cidades menores, existem serviços básicos de saúde e assistência social que podem te ajudar.
-Próximo passo: Vamos tentar encontrar informações sobre os serviços disponíveis em Sapucaia.
-Por que: Mesmo que os recursos sejam limitados, é importante saber o que está disponível e como acessá-los.
-Como começar:
-Pesquise no Google por "serviços sociais Sapucaia Pará" ou "CRAS Sapucaia Pará": Isso pode te levar a informações sobre os serviços oferecidos pela prefeitura e outras organizações locais.
-Entre em contato com a prefeitura de Sapucaia: Eles podem te informar sobre os serviços de saúde, assistência social e educação disponíveis para crianças com deficiência.
-Converse com o agente comunitário de saúde da sua área: Ele pode te dar informações sobre os serviços de saúde e assistência social disponíveis na sua comunidade.
-Aqui estão alguns links que podem ser úteis:
-[Site oficial da Prefeitura de Sapucaia] (https://www.sapucaia.pa.gov.br/) - Para buscar contato dos serviços sociais.
-[Lista de CRAS em Parauapebas - GOV.BR] (https://www.gov.br/mds/pt-br/acesso-a-informacao/acoes-e-programas/suas/rede-suas/mapa-da-rede-suas/arquivo/lista-de-cras-marco-2023/view) - Apesar de ser de outra cidade, pode ter informações relevantes sobre como funcionam os CRAS.
-Não foi possível encontrar uma lista oficial e atualizada de todos os CRAS em Sapucaia, PA. Recomendo fortemente entrar em contato diretamente com a prefeitura ou buscar informações no site oficial.
-➡️ Sobre o Benefício de Prestação Continuada (BPC) em Sapucaia:
-
-Mesmo em cidades menores, o BPC é um direito garantido por lei para pessoas com deficiência de baixa renda.
-Próximo passo: Procure o CRAS (Centro de Referência de Assistência Social) em Sapucaia para se informar sobre o BPC e como solicitar.
-Por que: O BPC pode te ajudar a pagar as despesas do José, como terapias, medicamentos e outras necessidades.
-Como começar: Vá pessoalmente ao CRAS de Sapucaia ou entre em contato por telefone para agendar um atendimento.
-[Benefício de Prestação Continuada (BPC) - INSS] (https://www.gov.br/inss/pt-br/beneficios/beneficio-de-prestacao-continuada) - Página oficial do INSS com informações sobre o BPC.
-[O que é o CRAS e como ele pode te ajudar? - Brasil Escola] (https://brasilescola.uol.com.br/brasil/o-que-e-cras.htm) - Este artigo explica o que é o CRAS e como ele pode te ajudar.
-[Como encontrar o CRAS mais próximo de mim? - Brasil Escola] (https://brasilescola.uol.com.br/brasil/como-encontrar-o-cras-mais-proximo-de-mim.htm) - Este artigo explica como encontrar o CRAS mais próximo de você.
-➡️ Sobre a inclusão escolar em Sapucaia:
-
-A inclusão escolar é um direito do José, e é fundamental que ele tenha acesso a uma educação de qualidade em um ambiente acolhedor e inclusivo, mesmo em Sapucaia.
-Próximo passo: Procure a Secretaria de Educação de Sapucaia para se informar sobre as escolas que oferecem atendimento especializado para crianças com TEA.
-Por que: A Secretaria de Educação pode te ajudar a encontrar uma escola que atenda às necessidades do José e a garantir que ele receba o apoio necessário para se desenvolver.
-Como começar: Entre em contato com a Secretaria de Educação por telefone, e-mail ou pessoalmente e agende uma conversa para apresentar o caso do José e solicitar informações sobre as escolas disponíveis.
-[Secretaria Municipal de Educação de São Félix do Xingu - SEDUC] (https://www.sfxdoxingu.pa.gov.br/secretaria/secretaria-municipal-de-educacao/) - Exemplo de secretaria da região, pode ter informações similares à de Sapucaia.
-[Educação Especial: o que é, tipos, legislação e como funciona - Brasil Escola] (https://brasilescola.uol.com.br/educacao/educacao-especial.htm) - Este artigo explica o que é educação especial, os tipos, a legislação e como funciona.
-Eduardo, sei que pode ser frustrante ter que buscar informações e serviços em um ambiente com recursos limitados. Mas não desista! Sua persistência e seu amor pelo José são fundamentais para garantir que ele tenha as oportunidades que merece.
-
-[PROXIMA_ETAPA: SUPORTE_DIARIO]
-
---------------------------------------------------------------
-
-Sua resposta:
-Ok, obrigado
-
-Processando...
-
---- Chat ---
-
-Eduardo, fico à disposição para te ajudar no que mais precisar. Lembre-se de que você não está sozinho nessa jornada. Sua força e dedicação são admiráveis, e o José tem muita sorte de ter você como pai. Se precisar de mais informações, apoio ou simplesmente um espaço para compartilhar seus sentimentos, pode contar comigo. Estamos aqui para caminhar juntos!
-
---------------------------------------------------------------
-
-Sua resposta:
-sair
-Encerrando o chat. Obrigado por compartilhar.
+[PROXIMA_ETAPA: SUPORTE_DIARIO])**
+---
 ---------------------------------------------------------------
 ## 🛠️ Como Rodar o Código 🛠️
 
