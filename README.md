@@ -217,9 +217,7 @@ Este projeto foi idealizado e desenvolvido por:
 **Eduardo Marchi**
 
 * GitHub: [![GitHub followers](https://img.shields.io/github/followers/[SeuUsernameGitHub]?style=social)](https://github.com/[SeuUsernameGitHub])
-[![LinkedIn](https://www.linkedin.com/in/seu-username/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20">
-
-: https://www.linkedin.com/in/eduardo-marchi-42b371348/
+* (https://www.linkedin.com/in/seu-username/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20">: https://www.linkedin.com/in/eduardo-marchi-42b371348/
 * e-mail: eduardo.marchi@gmail.com
 
 ---
