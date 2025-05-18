@@ -217,8 +217,8 @@ Este projeto foi idealizado e desenvolvido por:
 **Eduardo Marchi**
 
 * GitHub: [![GitHub followers](https://img.shields.io/github/followers/[SeuUsernameGitHub]?style=social)](https://github.com/[SeuUsernameGitHub])
-* [Link para seu perfil do LinkedIn]
-* [Links para outras redes sociais ou portfólio, se desejar]
+* A minha conta do LinkedIn, eu não consigo acessar fazzem 35 dias.
+* e-mail: eduardo.marchi@gmail.com
 
 ---
 
